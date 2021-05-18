@@ -1,7 +1,7 @@
 
 ![imagem drug discovery"](https://innovation.medicine.umich.edu/wp-content/uploads/2019/10/d3-course-460x307.jpg)
 
-# Desafio Final Imersão Dados -  Análise Dados Drug Discovery 💊🔍📊 
+# Desafio da Imersão Dados -  Análise Dados Drug Discovery 💊🔍📊 
 
 Por Elaine D'Angelo
 
