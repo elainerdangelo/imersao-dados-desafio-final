@@ -16,6 +16,7 @@ Olá! Nesse repositório você vai encontrar o desenvolvimento do meu projeto fi
 Esse projeto explora as bases da dados disponibilizadas pelo Kaggle com os arquivos abaixo:
 
 dados_experimentos.zip : Dados com os valores de expressão gênica, viabilidade celular, tratamento, dose, tempo para os diferentes experimentos.
+
 dados_resultados.csv : Dados com os valores de ativação ou não do Mecanismo de Ação.
 
 
